@@ -2,7 +2,7 @@ class Rustafits < Formula
   desc "High-performance FITS to JPEG converter with auto-stretch"
   homepage "https://github.com/eg013ra1n/rustafits"
   url "https://github.com/eg013ra1n/rustafits/archive/v0.1.0.tar.gz"
-  sha256 "CHECKSUM_HERE"
+  sha256 "c440dcc93055f636e64c53ab1bb18dc66011919b4b53227cb68ec115cfa6086f"
   license "GPL-3.0"
 
   depends_on "rust" => :build
