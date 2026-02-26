@@ -1,6 +1,6 @@
 # Homebrew Tap for rustafits
 
-Homebrew tap for [rustafits](https://github.com/eg013ra1n/rustafits) - High-performance FITS to JPEG converter with auto-stretch and Bayer debayering.
+Homebrew tap for [rustafits](https://github.com/eg013ra1n/rustafits) - High-performance FITS/XISF to JPEG/PNG converter with auto-stretch and Bayer debayering.
 
 ## Installation
 
