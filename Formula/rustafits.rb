@@ -1,8 +1,8 @@
 class Rustafits < Formula
   desc "High-performance FITS/XISF to JPEG converter with auto-stretch"
   homepage "https://github.com/eg013ra1n/rustafits"
-  url "https://github.com/eg013ra1n/rustafits/archive/v0.7.5.tar.gz"
-  sha256 "5408a3a2e708d4d43b640c918c12b81716d70a3238b8ba35e67bfaf5dd045e6a"
+  url "https://github.com/eg013ra1n/rustafits/archive/v0.8.0.tar.gz"
+  sha256 "702f916f7c87cfebcf4d935fb45408e9279b3ea2b50bc2a9158b63c8e101c579"
   license "Apache-2.0"
 
   depends_on "rust" => :build
