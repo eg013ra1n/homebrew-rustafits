@@ -5,6 +5,7 @@ class Rustafits < Formula
   sha256 "012b5957a4a7156e6cd418ea5a1dbf2d7a39b13fd528cbe5d500b370d9d28665"
   license "Apache-2.0"
 
+  depends_on "cmake" => :build
   depends_on "rust" => :build
 
   def install
